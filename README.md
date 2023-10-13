@@ -1,16 +1,4 @@
-# m10
+# Selection_Screen
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ss1](https://github.com/Rabby3075/SelectionScreen/assets/65245815/a8e1a8ab-a947-4d50-b587-805fbfdaf248)
+![ss2](https://github.com/Rabby3075/SelectionScreen/assets/65245815/9052c72a-ca40-4e9d-aaa0-e1052b6013f7)
